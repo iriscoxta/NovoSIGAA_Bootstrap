@@ -1,0 +1,94 @@
+a.Disciplinas {
+    background-color:#003f86;
+    width: 100%;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    font-family: 'Montserrat', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline-block;
+    
+}
+
+progress {
+    border-radius: 7px; 
+    width: 250px;
+    box-shadow: 1px 1px 4px rgba( 0, 0, 0, 0.2 ); 
+    margin: 5px;
+  }
+  progress::-webkit-progress-bar {
+    background-color: rgb(224, 224, 224);
+    border-radius: 7px;
+  }
+  progress::-webkit-progress-value {
+    background: #003f86;
+    border-radius: 7px;
+    box-shadow: 1px 1px 5px 3px rgba(17, 17, 17, 0.2);
+  }
+
+a:hover,
+a:active {
+    background-color: lightsteelblue;
+}
+
+a.Componentes{
+    background-color:#003f86;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0%; 
+}
+a:hover,
+a:active {
+    background-color: lightsteelblue;
+}
+
+body {
+    background-color: rgb(221, 215, 248);
+}
+
+h1 {
+    color: rgb(182, 188, 250);
+    margin-left: 40px;
+}
+
+body {
+    background-color: rgb(221, 215, 248);
+}
+
+h1 {
+    color: rgb(182, 188, 250);
+    margin-left: 40px;
+}
+
+
+table#Tabela{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+td{
+    border-top: 1px solid rgb(155, 152, 152);
+    padding: 10px;
+}
+#informacoes{
+    background-color: white; 
+    border-radius: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#CompCurric{
+    background-color: white; 
+    border-radius: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px;
+}
